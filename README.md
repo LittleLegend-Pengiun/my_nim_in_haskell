@@ -1,1 +1,3 @@
-# my_nim_in_haskell
+This is my haskell nim. Only use Prelude.
+
+A product of HCMUT student
